@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421187483256",
+    "project_id": "todoappgetx-cb40a",
+    "storage_bucket": "todoappgetx-cb40a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421187483256:android:d4e632622969ddabc39f8d",
+        "android_client_info": {
+          "package_name": "com.example.todo_app_getx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD7LryhUWwEEOkD_p58Ec2PJXob6rps0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
